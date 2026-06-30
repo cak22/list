@@ -8,7 +8,7 @@ http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/d1B5njgY/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV
-https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
+http://15.235.42.84:8088/rj-live/rj-live/600232.ts
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV 2
 http://15.235.42.84:8088/rj-live/rj-live/600234.ts
 #EXTINF:-1 tvg-name="SporTV3"tvg-id="SporTV 3"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV 3
