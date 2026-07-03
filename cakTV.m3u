@@ -7,8 +7,6 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/d1B5njgY/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
 https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="Teste"tvg-id="Teste"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",Teste
-http://15.235.42.84:8088/rj-live/rj-live/600230.ts
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV
 http://15.235.42.84:8088/rj-live/rj-live/600232.ts
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV 2
@@ -36,9 +34,9 @@ https://cr7v.short.gy/Canal3/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 4"tvg-id="PREMIERE 4"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE 4
 https://cr7v.short.gy/Canal4/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 5"tvg-id="PREMIERE 5"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE 5
-https://cr7v.short.gy/Canal5/index.m3u8
+https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 6"tvg-id="PREMIERE 6"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE 6
-https://cr7v.short.gy/Canal6/index.m3u8
+https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="CNN BRASIL"tvg-id="CNN Brasil"tvg-logo="https://i.postimg.cc/L5ZWGqYD/cnnbrasil.png"tvg-chno=""group-title="Canais | NOTÍCIAS",CNN BRASIL
 https://d25usgadhphvwi.cloudfront.net/hls/stv-plus-960x540/playlist.m3u8
 #EXTINF:-1 tvg-name="GLOBONEWS"tvg-id="GLOBONEWS"tvg-logo="https://i.postimg.cc/j2J1BWwk/globonews.png"tvg-chno=""group-title="Canais | NOTÍCIAS",GLOBO NEWS
@@ -49,10 +47,6 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/21.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5431&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=9794a1b041ad875093e398bc1632460a&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=pt-br&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=handset&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1688604990&id=11709&ip=138.185.238.172&override_expiration=1500&sign=z%2BA66gwNz60ZptKvp8RUzKwjztJdlXb4BFuJDdDAARg%3D
 #EXTINF:-1 tvg-name="DISCOVERY CHANNEL"tvg-id="Discovery Channel"tvg-logo="https://i.postimg.cc/WzJyxDF5/discovery.png"tvg-chno=""group-title="Canais | VARIEDADES",DISCOVERY CHANNEL
 http://hls1.sua.tv:80/live/discoverychannelfhd/s.m3u8
-#EXTINF:-1 tvg-name="HISTORY"tvg-id="HISTORY"tvg-logo="https://i.imgur.com/0rNNqVy.png"tvg-chno=""group-title="Canais | VARIEDADES",HISTORY
-https://cdn-5.nxplay.com.br/HISTORY_TK/index.m3u8
-#EXTINF:-1 tvg-name="HISTORY 2"tvg-id="H2"tvg-logo="https://i.imgur.com/rgDKfki.png"tvg-chno=""group-title="Canais | VARIEDADES",HISTORY 2
-https://cdn-5.nxplay.com.br/HISTORY_2_TK/index.m3u8
 #EXTINF:-1 tvg-name="TNT"tvg-id="TNT"tvg-logo="https://i.postimg.cc/3NDqzy0Y/tnt.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TNT
 http://s2.micineovs.com/TNT/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="TNT SÉRIES"tvg-id="TNT Series"tvg-logo="https://i.postimg.cc/xqDZQ0Mh/tntseries.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TNT SERIES
@@ -117,3 +111,5 @@ https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
 https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="COPA DO BRASIL 4"tvg-id=""tvg-logo="https://i.imgur.com/7PyqxOj.png"tvg-chno=""group-title="Live | COPA DO BRASIL",COPA DO BRASIL 4
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
+#EXTINF:-1 tvg-name="TESTE"tvg-id="Teste"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE
+http://15.235.42.84:8088/rj-live/rj-live/600231.ts
