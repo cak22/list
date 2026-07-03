@@ -5,8 +5,6 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SP"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno=""group-title="Canais | ABERTOS",GLOBO
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/d1B5njgY/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
-https://hplay.tv/augetv/12396547488/131.m3u8
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV
 http://15.235.42.84:8088/rj-live/rj-live/600232.ts
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV 2
@@ -95,5 +93,21 @@ https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="LIBERTA 5"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="Live | LIBERTADORES",LIBERTA 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-#EXTINF:-1 tvg-name="TESTE"tvg-id="Teste"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE
-http://15.235.42.84:8088/rj-live/rj-live/600210.ts
+#EXTINF:-1 tvg-name="TESTE1"tvg-id="Teste1"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 1
+http://15.235.42.84:8088/rj-live/rj-live/600201.ts
+#EXTINF:-1 tvg-name="TESTE2"tvg-id="Teste2"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 2
+http://15.235.42.84:8088/rj-live/rj-live/600202.ts
+#EXTINF:-1 tvg-name="TESTE3"tvg-id="Teste3"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 3
+http://15.235.42.84:8088/rj-live/rj-live/600203.ts
+#EXTINF:-1 tvg-name="TESTE4"tvg-id="Teste4"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 4
+http://15.235.42.84:8088/rj-live/rj-live/600204.ts
+#EXTINF:-1 tvg-name="TESTE5"tvg-id="Teste5"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 5
+http://15.235.42.84:8088/rj-live/rj-live/600205.ts
+#EXTINF:-1 tvg-name="TESTE6"tvg-id="Teste6"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 6
+http://15.235.42.84:8088/rj-live/rj-live/600206.ts
+#EXTINF:-1 tvg-name="TESTE7"tvg-id="Teste7"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 7
+http://15.235.42.84:8088/rj-live/rj-live/600207.ts
+#EXTINF:-1 tvg-name="TESTE8"tvg-id="Teste8"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 8
+http://15.235.42.84:8088/rj-live/rj-live/600208.ts
+#EXTINF:-1 tvg-name="TESTE9"tvg-id="Teste9"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 9
+http://15.235.42.84:8088/rj-live/rj-live/600209.ts
