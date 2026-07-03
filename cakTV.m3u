@@ -6,7 +6,7 @@ https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SP"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno=""group-title="Canais | ABERTOS",GLOBO
 http://s2.micineovs.com/GLOBO/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="BAND"tvg-id="BAND"tvg-logo="https://i.postimg.cc/d1B5njgY/band.png"tvg-chno=""group-title="Canais | ABERTOS",BAND
-https://cdn-5.nxplay.com.br/BAND_HD_PFZ_NX/tracks-v1a1/mono.m3u8
+https://hplay.tv/augetv/12396547488/131.m3u8
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV
 http://15.235.42.84:8088/rj-live/rj-live/600232.ts
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | SporTV",SporTV 2
@@ -21,9 +21,7 @@ http://46.151.196.223:14438/
 http://46.151.196.223:14444/
 #EXTINF:-1 tvg-name="ESPN 4"tvg-id="ESPN4"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPN",ESPN 4
 http://79.127.243.211:14514/
-#EXTINF:-1 tvg-name="ESPN 5"tvg-id="ESPN5"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPN",ESPN 5
-https://cdn-5.nxplay.com.br/ESPN_5/index.m3u8
-#EXTINF:-1 tvg-name="ESPN 6"tvg-id="ESPN6"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPN",ESPN 6
+#EXTINF:-1 tvg-name="ESPN EXTRA"tvg-id="ESPN EXTRA"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPN",ESPN EXTRA
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-name="PREMIERE CLUBES"tvg-id="PREMIERE CLUBES"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE CLUBES
 https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
@@ -55,8 +53,6 @@ http://15.235.42.84:8088/rj-live/rj-live/600258.ts
 http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="A&E"tvg-id="Ae.br"tvg-logo="https://i.postimg.cc/tJVc81Zt/ae.png"tvg-chno=""group-title="Canais | FILMES E SERIES",A&E
 http://79.127.238.228:14551/
-#EXTINF:-1 tvg-name="AXN"tvg-id="AXN"tvg-logo="https://i.postimg.cc/2yBtgqb7/axn.png"tvg-chno=""group-title="Canais | FILMES E SERIES",AXN
-https://cdn-5.nxplay.com.br/AXN_TK/index.m3u8
 #EXTINF:-1 tvg-name="USA NETWORK"tvg-id=""tvg-logo="https://imgur.com/bytVf9x.png"tvg-chno=""group-title="Canais | FILMES E SERIES",USA NETWORK
 http://15.235.42.84:8088/rj-live/rj-live/600286.ts
 #EXTINF:-1 tvg-name="TELECINE ACTION"tvg-id="Telecine Action"tvg-logo="https://i.postimg.cc/Hn7NFJcq/telecine-action.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE ACTION
@@ -71,10 +67,6 @@ http://15.235.42.84:8088/rj-live/rj-live/600243.ts
 http://15.235.42.84:8088/rj-live/rj-live/600250.ts
 #EXTINF:-1 tvg-name="TELECINE FUN"tvg-id="Telecine Fun"tvg-logo="https://i.postimg.cc/MT4tHgYH/telecine-fun.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE FUN
 http://15.235.42.84:8088/rj-live/rj-live/600245.ts
-#EXTINF:-1 tvg-name="AMC BRASIL"tvg-id="Amc.br"tvg-logo="https://i.postimg.cc/Hn7NFJc0/amc.png"tvg-chno=""group-title="Canais | FILMES E SERIES",AMC BRASIL
-https://cdn-5.nxplay.com.br/AMC_BRASIL_TK/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="SONY CHANNEL"tvg-id="Sony"tvg-logo="https://i.imgur.com/18X62CK.png"tvg-chno=""group-title="Canais | FILMES E SERIES",SONY CHANNEL
-https://cdn-5.nxplay.com.br/SONY_CHANNEL/index.m3u8
 #EXTINF:-1 tvg-name="CINEMAX"tvg-id="CINEMAX"tvg-logo="https://i.postimg.cc/J0BFSyDq/cinemax.png"tvg-chno=""group-title="Canais | FILMES E SERIES",CINEMAX
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="MEGAPIX"tvg-id="MEGAPIX"tvg-logo="https://i.postimg.cc/gj671wX1/megapix.png"tvg-chno=""group-title="Canais | FILMES E SERIES",MEGAPIX
@@ -104,4 +96,4 @@ https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="LIBERTA 5"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="Live | LIBERTADORES",LIBERTA 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1 tvg-name="TESTE"tvg-id="Teste"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE
-http://15.235.42.84:8088/rj-live/rj-live/600201.ts
+http://15.235.42.84:8088/rj-live/rj-live/600210.ts
