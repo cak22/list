@@ -22,7 +22,7 @@ http://79.127.243.211:14514/
 #EXTINF:-1 tvg-name="ESPN EXTRA"tvg-id="ESPN EXTRA"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPN",ESPN EXTRA
 http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
 #EXTINF:-1 tvg-name="PREMIERE CLUBES"tvg-id="PREMIERE CLUBES"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE CLUBES
-https://cr7v.short.gy/aoVIVO/PPVaoVIVO/index.m3u8
+http://15.235.42.84:8088/rj-live/rj-live/600202.ts
 #EXTINF:-1 tvg-name="PREMIERE 2"tvg-id="PREMIERE 2"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE 2
 https://cr7v.short.gy/Canal2/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 3"tvg-id="Premiere 3"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | PREMIERE",PREMIERE 3
@@ -93,21 +93,23 @@ https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
 https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="LIBERTA 5"tvg-id=""tvg-logo="https://i.imgur.com/JsumOW9.png"tvg-chno=""group-title="Live | LIBERTADORES",LIBERTA 5
 https://cr7v.short.gy/live/JOGOO8/Index.m3u8
-#EXTINF:-1 tvg-name="TESTE1"tvg-id="Teste1"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 1
+#EXTINF:-1 tvg-name="TESTE"tvg-id="Teste"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",PREMIERE X
 http://15.235.42.84:8088/rj-live/rj-live/600201.ts
+#EXTINF:-1 tvg-name="TESTE1"tvg-id="Teste1"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 1
+http://15.235.42.84:8088/rj-live/rj-live/600211.ts
 #EXTINF:-1 tvg-name="TESTE2"tvg-id="Teste2"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 2
-http://15.235.42.84:8088/rj-live/rj-live/600202.ts
+http://15.235.42.84:8088/rj-live/rj-live/600212.ts
 #EXTINF:-1 tvg-name="TESTE3"tvg-id="Teste3"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 3
-http://15.235.42.84:8088/rj-live/rj-live/600203.ts
+http://15.235.42.84:8088/rj-live/rj-live/600213.ts
 #EXTINF:-1 tvg-name="TESTE4"tvg-id="Teste4"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 4
-http://15.235.42.84:8088/rj-live/rj-live/600204.ts
+http://15.235.42.84:8088/rj-live/rj-live/600214.ts
 #EXTINF:-1 tvg-name="TESTE5"tvg-id="Teste5"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 5
-http://15.235.42.84:8088/rj-live/rj-live/600205.ts
+http://15.235.42.84:8088/rj-live/rj-live/600215.ts
 #EXTINF:-1 tvg-name="TESTE6"tvg-id="Teste6"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 6
-http://15.235.42.84:8088/rj-live/rj-live/600206.ts
+http://15.235.42.84:8088/rj-live/rj-live/600216.ts
 #EXTINF:-1 tvg-name="TESTE7"tvg-id="Teste7"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 7
-http://15.235.42.84:8088/rj-live/rj-live/600207.ts
+http://15.235.42.84:8088/rj-live/rj-live/600217.ts
 #EXTINF:-1 tvg-name="TESTE8"tvg-id="Teste8"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 8
-http://15.235.42.84:8088/rj-live/rj-live/600208.ts
+http://15.235.42.84:8088/rj-live/rj-live/600218.ts
 #EXTINF:-1 tvg-name="TESTE9"tvg-id="Teste9"tvg-logo=""tvg-chno=""group-title="Canais | TESTE",TESTE 9
-http://15.235.42.84:8088/rj-live/rj-live/600209.ts
+http://15.235.42.84:8088/rj-live/rj-live/600219.ts
