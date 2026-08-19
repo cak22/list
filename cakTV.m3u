@@ -10,17 +10,17 @@ http://15.235.42.84:8088/rj-live/rj-live/600234.ts
 #EXTINF:-1 tvg-name="SporTV3"tvg-id="SporTV 3"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno=""group-title="Canais | ESPORTES",SporTV 3
 http://15.235.42.84:8088/rj-live/rj-live/600236.ts
 #EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN
-http://15.235.42.84:8088/rj-live/rj-live/600078.ts
+http://46.151.196.223:14449/
 #EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN2"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN 2
-http://15.235.42.84:8088/rj-live/rj-live/600080.ts
+http://46.151.196.223:14438/
 #EXTINF:-1 tvg-name="ESPN 3"tvg-id="ESPN3"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN 3
-http://15.235.42.84:8088/rj-live/rj-live/600082.ts
+http://46.151.196.223:14444/
 #EXTINF:-1 tvg-name="ESPN 4"tvg-id="ESPN4"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN 4
-http://15.235.42.84:8088/rj-live/rj-live/600084.ts
+http://46.151.196.223:14450/
 #EXTINF:-1 tvg-name="ESPN 5"tvg-id="ESPN5"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN 5
-http://15.235.42.84:8088/rj-live/rj-live/600086.ts
+http://46.151.196.223:14457/
 #EXTINF:-1 tvg-name="ESPN 6"tvg-id="ESPN6"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno=""group-title="Canais | ESPORTES",ESPN 6
-http://15.235.42.84:8088/rj-live/rj-live/600088.ts
+http://46.151.196.223:14460/
 #EXTINF:-1 tvg-name="PREMIERE CLUBES"tvg-id="PREMIERE CLUBES"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | ESPORTES",PREMIERE CLUBES
 http://15.235.42.84:8088/rj-live/rj-live/600202.ts
 #EXTINF:-1 tvg-name="PREMIERE 2"tvg-id="PREMIERE 2"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | ESPORTES",PREMIERE 2
@@ -34,7 +34,7 @@ https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 6"tvg-id="PREMIERE 6"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno=""group-title="Canais | ESPORTES",PREMIERE 6
 https://cr7v.short.gy/mano2/testchamaWhats75991634025.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT+"tvg-id="PARAMOUNT+"tvg-logo="https://i.postimg.cc/q782XdrB/paramount-plus.png"tvg-chno=""group-title="Canais | ESPORTES",PARAMOUNT+
-http://15.235.42.84:8088/rj-live/rj-live/600170.ts
+http://79.127.243.211:14658/
 #EXTINF:-1 tvg-name="CNN BRASIL"tvg-id="CNN Brasil"tvg-logo="https://i.postimg.cc/L5ZWGqYD/cnnbrasil.png"tvg-chno=""group-title="Canais | NOTÍCIAS",CNN BRASIL
 http://15.235.42.84:8088/rj-live/rj-live/600047.ts
 #EXTINF:-1 tvg-name="GLOBONEWS"tvg-id="GLOBONEWS"tvg-logo="https://i.postimg.cc/j2J1BWwk/globonews.png"tvg-chno=""group-title="Canais | NOTÍCIAS",GLOBO NEWS
@@ -54,27 +54,27 @@ http://streamer.sattvacabo.com.br/WARNER_HD/index.m3u8?token=TLGacFXd0gIXIuo2u8Z
 #EXTINF:-1 tvg-name="A&E"tvg-id="Ae.br"tvg-logo="https://i.postimg.cc/tJVc81Zt/ae.png"tvg-chno=""group-title="Canais | FILMES E SERIES",A&E
 http://79.127.238.228:14551/
 #EXTINF:-1 tvg-name="TELECINE ACTION"tvg-id="Telecine Action"tvg-logo="https://i.postimg.cc/Hn7NFJcq/telecine-action.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE ACTION
-http://15.235.42.84:8088/rj-live/rj-live/600241.ts
+http://79.127.243.211:14632/
 #EXTINF:-1 tvg-name="TELECINE PIPOCA"tvg-id="Telecine Pipoca"tvg-logo="https://i.postimg.cc/prnS395v/telecine-pipoca.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE PIPOCA
 http://s2.micineovs.com/TELECINEPIPOCA/index.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1 tvg-name="TELECINE PREMIUM"tvg-id="TELECINE PREMIUM"tvg-logo="https://i.postimg.cc/MHjLgcfz/telecine-premium.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE PREMIUM
-http://s2.micineovs.com/TELECINEPREMIUM/index.m3u8?token=16FOTt9Ae2m8
+http://79.127.243.211:14648/
 #EXTINF:-1 tvg-name="TELECINE CULT"tvg-id="Telecine Cult"tvg-logo="https://i.postimg.cc/prnS395N/telecine-cult.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE CULT
 http://15.235.42.84:8088/rj-live/rj-live/600243.ts
 #EXTINF:-1 tvg-name="TELECINE TOUCH"tvg-id="Telecine Touch"tvg-logo="https://i.postimg.cc/RF8Gh2TF/telecine-touch.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE TOUCH
-http://15.235.42.84:8088/rj-live/rj-live/600250.ts
+http://79.127.243.211:14652/
 #EXTINF:-1 tvg-name="TELECINE FUN"tvg-id="Telecine Fun"tvg-logo="https://i.postimg.cc/MT4tHgYH/telecine-fun.png"tvg-chno=""group-title="Canais | FILMES E SERIES",TELECINE FUN
 http://15.235.42.84:8088/rj-live/rj-live/600245.ts
 #EXTINF:-1 tvg-name="CINEMAX"tvg-id="CINEMAX"tvg-logo="https://i.postimg.cc/J0BFSyDq/cinemax.png"tvg-chno=""group-title="Canais | FILMES E SERIES",CINEMAX
 http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="MEGAPIX"tvg-id="MEGAPIX"tvg-logo="https://i.postimg.cc/gj671wX1/megapix.png"tvg-chno=""group-title="Canais | FILMES E SERIES",MEGAPIX
-http://s2.micineovs.com/MEGAPIX/index.m3u8?token=16FOTt9Ae2m8
+http://79.127.238.228:14592/
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="https://i.postimg.cc/3NDqzy4f/hbo.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO
 https://cr7v.short.gy/ManoTV/temporário/index.m3u8
 #EXTINF:-1 tvg-name="HBO+"tvg-id="HBO Plus"tvg-logo="https://i.postimg.cc/rstH7d0b/hbo-max.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO+
 http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="HBO2"tvg-id="HBO 2"tvg-logo="https://i.postimg.cc/Hn7NFJch/hbo-2.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO 2
-http://streamer.sattvacabo.com.br/HBO2/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
+http://79.127.243.211:14660/
 #EXTINF:-1 tvg-name="HBO FAMILY"tvg-id="HBO Family"tvg-logo="https://i.postimg.cc/C5f29ZB2/hbo-family.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO FAMILY
 http://streamer.sattvacabo.com.br/HBO_FAMILY/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="HBO SIGNATURE"tvg-id="HBO SIGNATURE"tvg-logo="https://i.postimg.cc/cC8zPKg2/hbo-signature.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO SIGNATURE
