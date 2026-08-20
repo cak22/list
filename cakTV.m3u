@@ -70,7 +70,7 @@ http://streamer.sattvacabo.com.br/CINEMAX/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7
 #EXTINF:-1 tvg-name="MEGAPIX"tvg-id="MEGAPIX"tvg-logo="https://i.postimg.cc/gj671wX1/megapix.png"tvg-chno=""group-title="Canais | FILMES E SERIES",MEGAPIX
 http://79.127.238.228:14592/
 #EXTINF:-1 tvg-name="HBO"tvg-id="HBO"tvg-logo="https://i.postimg.cc/3NDqzy4f/hbo.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO
-https://cr7v.short.gy/ManoTV/temporário/index.m3u8
+http://79.127.243.211:14668/
 #EXTINF:-1 tvg-name="HBO+"tvg-id="HBO Plus"tvg-logo="https://i.postimg.cc/rstH7d0b/hbo-max.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO+
 http://streamer.sattvacabo.com.br/HBO_PLUS/index.m3u8?token=TLGacFXd0gIXIuo2u8Zj7f4FE5J2vtgf
 #EXTINF:-1 tvg-name="HBO2"tvg-id="HBO 2"tvg-logo="https://i.postimg.cc/Hn7NFJch/hbo-2.png"tvg-chno=""group-title="Canais | FILMES E SERIES",HBO 2
