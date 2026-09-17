@@ -1,4 +1,4 @@
-﻿#EXTM3U url-tvg="https://raw.githubusercontent.com/iptv-com/epg/main/guides/brazil.xml"
+﻿#EXTM3U url-tvg="https://iptv-epg.org/files/epg-br.xml"
 #EXTINF:-1 tvg-name="CULTURA"tvg-id="TV Cultura"tvg-logo="https://i.postimg.cc/G27kH7Zc/cultura.png"tvg-chno=""group-title="Canais | ABERTOS",CULTURA
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SP"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno=""group-title="Canais | ABERTOS",GLOBO
