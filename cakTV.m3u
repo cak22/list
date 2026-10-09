@@ -4,11 +4,11 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SP"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno="5"group-title="Canais | ABERTOS",GLOBO
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131215.ts
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="11"group-title="Canais | ESPORTES",SporTV
-http://45.185.11.126:8000/play/a05g/index.m3u8
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72329.ts
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="12"group-title="Canais | ESPORTES",SporTV 2
-http://45.185.11.126:8000/play/a05f/index.m3u8
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72321.ts
 #EXTINF:-1 tvg-name="SporTV3"tvg-id="SporTV 3"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="13"group-title="Canais | ESPORTES",SporTV 3
-http://45.185.11.126:8000/play/a06v/index.m3u8
+http://332nr7hbfu.xyz:80/999913/S3CvUB/72325.ts
 #EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno="21"group-title="Canais | ESPORTES",ESPN
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71911.ts
 #EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN2"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno="22"group-title="Canais | ESPORTES",ESPN 2
