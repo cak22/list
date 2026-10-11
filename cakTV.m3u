@@ -4,11 +4,11 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1 tvg-name="GLOBO"tvg-id="GLOBO SP"tvg-logo="https://i.postimg.cc/LXTxv3GS/globo.png"tvg-chno="5"group-title="Canais | ABERTOS",GLOBO
 http://332nr7hbfu.xyz:80/999913/S3CvUB/131215.ts
 #EXTINF:-1 tvg-name="SporTV"tvg-id="SporTV"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="11"group-title="Canais | ESPORTES",SporTV
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72329.ts
+http://45.185.11.126:8000/play/a05g/index.m3u8
 #EXTINF:-1 tvg-name="SporTV2"tvg-id="SporTV 2"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="12"group-title="Canais | ESPORTES",SporTV 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72321.ts
+http://45.185.11.126:8000/play/a05f/index.m3u8
 #EXTINF:-1 tvg-name="SporTV3"tvg-id="SporTV 3"tvg-logo="https://i.postimg.cc/XqyPtZGT/sportv.png"tvg-chno="13"group-title="Canais | ESPORTES",SporTV 3
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72325.ts
+http://45.185.11.126:8000/play/a06v/index.m3u8
 #EXTINF:-1 tvg-name="ESPN"tvg-id="ESPN"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno="21"group-title="Canais | ESPORTES",ESPN
 http://332nr7hbfu.xyz:80/999913/S3CvUB/71911.ts
 #EXTINF:-1 tvg-name="ESPN 2"tvg-id="ESPN2"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno="22"group-title="Canais | ESPORTES",ESPN 2
@@ -22,17 +22,17 @@ http://45.185.11.126:8000/play/a05n/index.m3u8
 #EXTINF:-1 tvg-name="ESPN 6"tvg-id="ESPN6"tvg-logo="https://i.postimg.cc/6qGPF72j/espn.png"tvg-chno="26"group-title="Canais | ESPORTES",ESPN 6
 http://45.185.11.126:8000/play/a084/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE CLUBES"tvg-id="PREMIERE CLUBES"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="31"group-title="Canais | ESPORTES",PREMIERE CLUBES
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72262.ts
+http://45.185.11.126:8000/play/a06g/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 2"tvg-id="PREMIERE 2"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="32"group-title="Canais | ESPORTES",PREMIERE 2
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72237.ts
+http://45.185.11.126:8000/play/a06h/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 3"tvg-id="Premiere 3"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="33"group-title="Canais | ESPORTES",PREMIERE 3
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72241.ts
+http://45.185.11.126:8000/play/a0av/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 4"tvg-id="PREMIERE 4"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="34"group-title="Canais | ESPORTES",PREMIERE 4
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72245.ts
+http://45.185.11.126:8000/play/a07b/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 5"tvg-id="PREMIERE 5"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="35"group-title="Canais | ESPORTES",PREMIERE 5
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72249.ts
+http://45.185.11.126:8000/play/a07c/index.m3u8
 #EXTINF:-1 tvg-name="PREMIERE 6"tvg-id="PREMIERE 6"tvg-logo="https://i.postimg.cc/76cXhjNL/premiere.png"tvg-chno="36"group-title="Canais | ESPORTES",PREMIERE 6
-http://332nr7hbfu.xyz:80/999913/S3CvUB/72253.ts
+http://45.185.11.126:8000/play/a05j/index.m3u8
 #EXTINF:-1 tvg-name="PARAMOUNT+1"tvg-id="PARAMOUNT+1"tvg-logo="https://i.postimg.cc/q782XdrB/paramount-plus.png"tvg-chno="41"group-title="Canais | ESPORTES",PARAMOUNT+1
 http://332nr7hbfu.xyz:80/999913/S3CvUB/72977.ts
 #EXTINF:-1 tvg-name="PARAMOUNT+2"tvg-id="PARAMOUNT+2"tvg-logo="https://i.postimg.cc/q782XdrB/paramount-plus.png"tvg-chno="42"group-title="Canais | ESPORTES",PARAMOUNT+2
